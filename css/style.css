@@ -45,4 +45,17 @@ h1, h2 {
 #social-cv:hover {
   color: pink; }
 
+#skills-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+#skill-image {
+  width: 100%;
+}
+
+#skill-container {
+  width: 30%;
+}
+
 /*# sourceMappingURL=style.css.map */
