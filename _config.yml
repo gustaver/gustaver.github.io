@@ -18,6 +18,8 @@ social:
   linkedin: gustaverousselet # Add your LinkedIn handle
   email: gustave.rousselet@icloud.com # Add your Email address
   spotify: superlardman # Add your Spotify handle
+files:
+  cv: cv.pdf # CV filename under _assets/files
 
 # Important settings (change at own risk)
 

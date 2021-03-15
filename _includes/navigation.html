@@ -113,6 +113,13 @@
         </a>
       </li>
     {% endif %}
+    {% if site.files.cv %}
+      <li>
+        <a href="{{ site.url }}/assets/files/{{ site.files.cv }}" rel="noreferrer noopener" target="_blank" title="CV">
+          {% include svg-icon.html icon="stackoverflow" %}
+        </a>
+      </li>
+    {% endif %}
     {% if site.social.youtube %}
       <li>
         <a href="https://www.youtube.com/user/{{ site.social.youtube }}" rel="noreferrer noopener" target="_blank" title="Youtube">
