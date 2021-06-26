@@ -17,6 +17,12 @@ Luckily for me, Fred was also excited about my newfound interest, so he was a hu
 
 {% include image.html path="blog-images/yamaha-ybr-125.jpeg" path-detail="blog-images/yamaha-ybr-125.jpeg" alt="Yamaha YBR-125" %}
 
+{% include image.html 
+    path="blog-images/ybr-apartment.JPG" 
+    path-detail="blog-images/ybr-apartment.JPG"
+    title="Parking was cheap" 
+    alt="YBR-125 in my apartment" %}
+
 Fred drove it back to my place, and a couple of joyrides in, I quickly realised that the peewee bike was good enough to start, but really wasn't gonna cut it to learn how to ride properly. So I sold the bike (for a profit mind you!) and went back to the drawing board. Another MC dad and busride later, and I was the proud owner of a '98 BMW F650. 
 
 {% include image.html path="blog-images/bmw-f650.jpeg" path-detail="blog-images/bmw-f650.jpeg" alt="BMW F650" %}
