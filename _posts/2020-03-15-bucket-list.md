@@ -2,12 +2,14 @@
 layout: post
 title: "Bucket List"
 description: "A list of things I want to do"
-tags: [blog]
+tags: [blog, bucket-list]
 ---
 
 # What is this?
  
 This is a classic bucket list. Some of these things I've already done but want to do again. Some I have never done. I'll keep adding to this list as I tick things off and add new ones. 
+
+Once I've done an item on this list, the header will have a checkmark ✔ and link to a blog post documenting the item. 
 
 ## Skydive
 
@@ -42,6 +44,8 @@ This is a classic bucket list. Some of these things I've already done but want t
 ## Go to an African country 
 
 ## Go to a South American country 
+
+## ✔ [Get my motorcycle license](/posts/bl-motorcycle-license)
 
 ## Buy a motorbike 
 
