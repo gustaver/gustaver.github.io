@@ -65,7 +65,7 @@ Once I've done an item on this list, the header will have a checkmark ✔ and li
 
 ## Go to a strip club 
 
-## Bake my own pizza 
+## ✔ [Bake my own pizza](/posts/bl-pizza) 
 
 ## Mosh at a heavy metal concert 
 
