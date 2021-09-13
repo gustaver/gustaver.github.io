@@ -15,6 +15,8 @@ Once we got there, a tall young guy who looked exactly what you think a bungie j
 
 Tim had told me that he was scared shitless when he went jumping, so I was ready to be shivering with fear as I was hoisted over the windy Copenhagen waterfront. But honestly, it happend so quickly that I really didn't have time to be scared. I just went up, spread my arms, leaned forward, and back down to earth I came:  
 
-<iframe src="https://drive.google.com/file/d/1PESrp3IcK2kCG3M6tFjRwK17iOSfUGdG/preview" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe src="https://drive.google.com/file/d/1PESrp3IcK2kCG3M6tFjRwK17iOSfUGdG/preview" width="640" height="480" allow="autoplay" allowfullscreen></iframe>
+</div>
 
 The feeling after was amazing, and exactly what I needed to kick off my trip after a quite uneventful past week. Life is so full, and plummeting towards the earth in a freefall is a great way to remind ourselves that we're alive. 
