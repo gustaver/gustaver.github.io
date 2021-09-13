@@ -13,7 +13,7 @@ Once I've done an item on this list, the header will have a checkmark ✔ and li
 
 ## Skydive
 
-## Bungie jump 
+## ✔ [Bungie jump](/posts/bl-bungie-jump) 
 
 ## Swim with sharks in a cage 
 
