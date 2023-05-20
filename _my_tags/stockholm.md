@@ -1,0 +1,4 @@
+---
+slug: stockholm
+name: stockholm
+---
