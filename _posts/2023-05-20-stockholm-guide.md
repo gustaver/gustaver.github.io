@@ -38,7 +38,10 @@ Go to the top of Stockholm city hall. Combine with a walk along Norr Mälarstran
 Go here on a sunny Friday/Saturday with some beers, then head out to Trädgården after.
 
 ### [Vasa Museum](https://goo.gl/maps/eVERWAGYqR6Qber67?coh=178571&entry=tt)
-Recovered sunken ship. 
+Recovered sunken ship.
+
+### [Tyresta National Park](https://goo.gl/maps/r2c2yJ7hDfM65P7p6?coh=178571&entry=tt)
+Hiking in nature near Stockholm that's reachable by train + bus. Deserves a full day.
 
 ## Restaurants & Bars
 Mostly relaxed places and reasonably priced food. 
@@ -66,9 +69,6 @@ Simple but really tasty sausage stand. Grab a sausage and go for a walk to Karlb
 
 ### [SNÖ](https://goo.gl/maps/7PGBicXiBndJ7JXm8?coh=178571&entry=tt)
 Gelateria style ice cream in Vasastan. Expect long queues on sunny days, but it's worth it. They also have a great lunch!
-
-### [Tyresta National Park](https://goo.gl/maps/r2c2yJ7hDfM65P7p6?coh=178571&entry=tt)
-Hiking in nature near Stockholm that's reachable by train + bus. Deserves a full day. 
 
 ## Nightlife
 I'm not an expert on Stockholm night life, but these places are a good time. Avoid Stureplan at all costs.
