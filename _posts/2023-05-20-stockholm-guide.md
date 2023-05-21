@@ -43,6 +43,9 @@ Recovered sunken ship.
 ### [Tyresta National Park](https://goo.gl/maps/r2c2yJ7hDfM65P7p6?coh=178571&entry=tt)
 Hiking in nature near Stockholm that's reachable by train + bus. Deserves a full day.
 
+### [Kayak](https://goo.gl/maps/Qg7o6BvVxTtu5whv7?coh=178571&entry=tt)
+Paddle around Stockholm or out to the archipelago. There's also [KAYAKOMAT](https://www.kayakomat.com).
+
 ## Restaurants & Bars
 Mostly relaxed places and reasonably priced food. 
 
