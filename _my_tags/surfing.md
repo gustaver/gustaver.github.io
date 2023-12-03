@@ -1,4 +1,0 @@
----
-slug: surfing
-name: surfing
----
