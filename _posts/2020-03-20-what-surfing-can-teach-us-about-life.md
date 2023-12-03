@@ -10,8 +10,8 @@ tags: [blog, surfing]
 I started surfing during my 2018/19 exchange year in California. I've always been into boardsports, starting with my dad teaching me how to snowboard when I was 10 (or rather, dragging me along for his own shredding adventures). I started skateboarding when I was 12, and wakeboarding has popped in and out of my life sporadically whenever water and a boat were involved. So, it felt natural to give surfing a try. I was likely also trying to justify my surfer demeanor, knowing that I couldn't really use words like _gnarly_ and _stoked_ without actually ever having ridden a wave.
 
 {% include  image.html 
-            path="blog-images/me-and-dad-snowboard.png" 
-            path-detail="blog-images/me-and-dad-snowboard.png" 
+            path="blog-images/me-and-dad-snowboard.jpg" 
+            path-detail="blog-images/me-and-dad-snowboard.jpg" 
             title="My dad and I, 25 years apart" 
             alt="My dad and I, 25 years apart" %}
 
