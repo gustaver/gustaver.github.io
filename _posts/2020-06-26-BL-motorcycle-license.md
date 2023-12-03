@@ -9,13 +9,13 @@ Getting my motorcycle license started just before the summer of 2020. The novel 
 
 My buddy Fred had just gotten his motorcycle, a Yamaha XT600 from '96, so the bike was as old as I was. It was a beautiful bike, and I decided that I also wanted to ride 2 wheels.
 
-{% include image.html path="blog-images/fred-yamaha-lappis.jpeg" path-detail="blog-images/fred-yamaha-lappis.jpeg" alt="Fred XT600" %}
+{% include image.html path="blog-images/fred-yamaha-lappis.jpg" path-detail="blog-images/fred-yamaha-lappis.jpg" alt="Fred XT600" %}
 
 Fred was entranced by the bikes themselves. I was captured by the thoughts of touring, adventure, and the connection with the world that bikes offer as you traverse an open and winding terrain.
 
 Luckily for me, Fred was also excited about my newfound interest, so he was a huge help in getting things going. We decided that we'd get a bike and start practicing (illegally) ourselves to save money. I scoped out a Yamaha YBR-125 being sold by a stereotypical MC dad. A busride to Norrtälje and some awkward haggling later and it was ours. 
 
-{% include image.html path="blog-images/yamaha-ybr-125.jpeg" path-detail="blog-images/yamaha-ybr-125.jpeg" alt="Yamaha YBR-125" %}
+{% include image.html path="blog-images/yamaha-ybr-125.jpg" path-detail="blog-images/yamaha-ybr-125.jpg" alt="Yamaha YBR-125" %}
 
 {% include image.html 
     path="blog-images/ybr-apartment.JPG" 
@@ -25,7 +25,7 @@ Luckily for me, Fred was also excited about my newfound interest, so he was a hu
 
 Fred drove it back to my place, and a couple of joyrides in, I quickly realised that the peewee bike was good enough to start, but really wasn't gonna cut it to learn how to ride properly. So I sold the bike (for a profit mind you!) and went back to the drawing board. Another MC dad and busride later, and I was the proud owner of a '98 BMW F650. 
 
-{% include image.html path="blog-images/bmw-f650.jpeg" path-detail="blog-images/bmw-f650.jpeg" alt="BMW F650" %}
+{% include image.html path="blog-images/bmw-f650.jpg" path-detail="blog-images/bmw-f650.jpg" alt="BMW F650" %}
 
 We spent the rest of the summer joyriding and practicing in empty parking lots in the evenings. In paralell with jumping through the hoops of mandatory theory and risk tests for the Swedish Transport Administration, Fred was guiding me through the maneuvers required for the driving test. It was grueling at times, creeping through the slow speed course and then waving wildly through the high speed maneuvers. But by the end of the summer, I felt ready to take the driving test. 
 
