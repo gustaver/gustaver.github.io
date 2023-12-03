@@ -18,8 +18,8 @@ Luckily for me, Fred was also excited about my newfound interest, so he was a hu
 {% include image.html path="blog-images/yamaha-ybr-125.jpg" path-detail="blog-images/yamaha-ybr-125.jpg" alt="Yamaha YBR-125" %}
 
 {% include image.html 
-    path="blog-images/ybr-apartment.JPG" 
-    path-detail="blog-images/ybr-apartment.JPG"
+    path="blog-images/ybr-apartment.jpg" 
+    path-detail="blog-images/ybr-apartment.jpg"
     title="Parking was cheap" 
     alt="YBR-125 in my apartment" %}
 
@@ -39,7 +39,7 @@ I really didn't think I'd get the license at this point, and with the lack of dr
 
 I showed up to the test, much more nervous this time, and it didn't help that the guy who went before me failed almost instantly. But all the practicing I'd done up until then sat deeply in my bones. It wasn't flawless, but I progressed through the sections and finally the inspector told me I passed. With a gesture of a handshake (one has to adapt congratulations during a time of social distancing) and some typing on an iPad, it was all over. 
 
-{% include image.html path="blog-images/license-mc.JPG" path-detail="blog-images/license-mc.JPG" alt="MC license" %}
+{% include image.html path="blog-images/license-mc.jpg" path-detail="blog-images/license-mc.jpg" alt="MC license" %}
 
 I was proud, but more than anything I was just relieved. The whole experience had started off as a lockdown identity crisis, and now it was finishing as a young dude who was honestly just too stubborn to **NOT** get the license as this point. A weight lifted off my shoulders.
 
